@@ -6,7 +6,8 @@ const mentors = {
   kevinblanco: require('kevinblanco'),
   laurensortiz: require('laurensortiz'),
   jarias: require('jarias'),
-  rubenabix: require('rubenabix')
+  rubenabix: require('rubenabix'),
+  dmunguia: require('dmunguia')
 }
 
 module.exports = mentors
