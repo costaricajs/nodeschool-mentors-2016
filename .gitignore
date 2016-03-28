@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+
+# WebStorm
+.idea
+
+# Dependency directory
+node_modules
+
+# JShint
+.jshintignore
+.jshintrc
