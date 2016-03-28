@@ -4,7 +4,8 @@ const mentors = {
   brolag: require('brolag'),
   stevenperez: require('stevenperez'),
   kevinblanco: require('kevinblanco'),
-  laurensortiz: require('laurensortiz')
+  laurensortiz: require('laurensortiz'),
+  jarias: require('jarias')
 }
 
 module.exports = mentors
