@@ -12,7 +12,8 @@
     "rubenabix": "^1.0.2",
     "stevenperez": "^1.0.2",
     "yeco": "^1.0.0",
-    "dmunguia": "^1.0.0"
+    "dmunguia": "^1.0.0",
+	  "credondocr": "^2.0.1"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",
