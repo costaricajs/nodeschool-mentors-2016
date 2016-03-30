@@ -9,7 +9,8 @@ const mentors = {
   rubenabix: require('rubenabix'),
   dmunguia: require('dmunguia'),
   credondocr: require('credondocr'),
-  avenidanet: require('avenidanet')
+  avenidanet: require('avenidanet'),
+  gmmendezp: require('gmmendezp')
 }
 
 module.exports = mentors
