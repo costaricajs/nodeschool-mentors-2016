@@ -113,5 +113,14 @@
     "email": "luis.ledezma@edify.cr",
     "github": "ledezman",
     "linkedin": "ledezman"
+  },
+  "cmonge": {
+    "name": "Carlos Monge",
+    "bio": "Software Architect at Edify.",
+    "website": "http://edify.cr",
+    "email": "carlos.monge@edify.cr",
+    "twitter": "cmonge",
+    "github": "cmonge",
+    "linkedin": "carlosmongea"
   }
 }
