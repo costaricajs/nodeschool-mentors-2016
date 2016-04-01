@@ -16,7 +16,8 @@
 	  "credondocr": "^2.0.1",
     "quiaro": "^0.0.1",
     "avenidanet": "^1.0.0",
-    "gmmendezp": "^1.0.1"
+    "gmmendezp": "^1.0.1",
+    "ledezman": "^1.0.0"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",

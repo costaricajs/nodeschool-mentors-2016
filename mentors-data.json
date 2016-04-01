@@ -105,5 +105,13 @@
     "email": "martin.mendez@edify.cr",
     "github": "gmmendezp",
     "twitter": "gmmendezp"
+  },
+  "ledezman": {
+    "name": "Luis Ledezma",
+    "bio": "Software Architect at Edify.",
+    "website": "http://edify.cr",
+    "email": "luis.ledezma@edify.cr",
+    "github": "ledezman",
+    "linkedin": "ledezman"
   }
 }
