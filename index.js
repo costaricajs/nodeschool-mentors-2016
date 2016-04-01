@@ -12,7 +12,8 @@ const mentors = {
   avenidanet: require('avenidanet'),
   gmmendezp: require('gmmendezp'),
   ledezman: require('ledezman'),
-  quiaro: require('quiaro')
+  quiaro: require('quiaro'),
+  cmonge: require('cmonge')
 }
 
 module.exports = mentors

@@ -17,7 +17,8 @@
     "avenidanet": "^1.0.0",
     "gmmendezp": "^1.0.1",
     "ledezman": "^1.0.0",
-    "quiaro": "^1.0.0"
+    "quiaro": "^1.0.0",
+    "cmonge": "^1.0.0"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",
