@@ -113,5 +113,12 @@
     "email": "luis.ledezma@edify.cr",
     "github": "ledezman",
     "linkedin": "ledezman"
+  },
+  "quiaro": {
+    "name": "David Quirós",
+    "bio": "Senior Front End Developer at Edify",
+    "twitter": "kiaro",
+    "github": "quiaro",
+    "linkedin": "https://cr.linkedin.com/in/quirosdavid"
   }
 }
