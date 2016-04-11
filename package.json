@@ -19,7 +19,8 @@
     "ledezman": "^1.0.0",
     "quiaro": "^1.0.0",
     "cmonge": "^1.0.0",
-    "carlosv": "^1.0.2"
+    "carlosv": "^1.0.2",
+    "argosbass": "^1.0.0"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",
