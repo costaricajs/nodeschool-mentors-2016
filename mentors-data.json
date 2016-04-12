@@ -129,5 +129,13 @@
     "twitter": "cmonge",
     "github": "cmonge",
     "linkedin": "carlosmongea"
+  },
+  "argosbass": {
+    "name": "Danny Mora",
+    "bio": "Drupal Activist, PHP - JavaScript Developer and Entrepreneur",
+    "website": "http://www.dannymr.com",
+    "email": "argosbass@gmail.com",
+    "github": "argosbass",
+    "twitter": "argosbass"
   }
 }

@@ -13,7 +13,8 @@ const mentors = {
   gmmendezp: require('gmmendezp'),
   ledezman: require('ledezman'),
   quiaro: require('quiaro'),
-  cmonge: require('cmonge')
+  cmonge: require('cmonge'),
+  argosbass: require('argosbass')
 }
 
 module.exports = mentors
