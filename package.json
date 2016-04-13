@@ -18,7 +18,8 @@
     "gmmendezp": "^1.0.1",
     "ledezman": "^1.0.0",
     "quiaro": "^1.0.0",
-    "cmonge": "^1.0.0"
+    "cmonge": "^1.0.0",
+    "carlosv": "^1.0.2"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",
