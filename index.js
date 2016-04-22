@@ -4,6 +4,7 @@ const mentors = {
   brolag: require('brolag'),
   stevenperez: require('stevenperez'),
   kevinblanco: require('kevinblanco'),
+  jeanlescure: require('jeanlescure'),
   laurensortiz: require('laurensortiz'),
   jarias: require('jarias'),
   rubenabix: require('rubenabix'),
