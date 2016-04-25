@@ -17,7 +17,8 @@ const mentors = {
   cmonge: require('cmonge'),
   carlosv: require('carlosv'),
   argosbass: require('argosbass'),
-  gelopfalcon: require('gelopfalcon')
+  gelopfalcon: require('gelopfalcon'),
+  jasancheg: require('jasancheg')
 }
 
 module.exports = mentors
