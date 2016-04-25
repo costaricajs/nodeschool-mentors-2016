@@ -21,7 +21,8 @@
     "quiaro": "^1.0.0",
     "cmonge": "^1.0.0",
     "carlosv": "^1.0.2",
-    "argosbass": "^1.0.0"
+    "argosbass": "^1.0.0",
+    "jasancheg": "^1.0.2"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",
