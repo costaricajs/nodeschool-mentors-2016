@@ -27,16 +27,6 @@
     "github": "brolag",
     "linkedin": "brolag"
   },
-  "stevenperez": {
-    "name": "Steven Pérez",
-    "bio": "Full Stack Web Developer. Member of @costaricajs. #JavaScript #NodeJS",
-    "website": "http://www.stevengpa.com/",
-    "email": "steven.gpa@gmail.com",
-    "twitter": "steven__pa",
-    "github": "stevenperez",
-    "linkedin": "stevengpa",
-    "youtube": "https://www.youtube.com/results?search_query=UC2H6N4NTWdOy3Hfc79_8e"
-  },
   "kevinblanco": {
     "name": "Kevin Blanco",
     "bio": "JavaScript Enthusiast, Drupal Activist and Entrepreneur",
@@ -188,5 +178,14 @@
     "website": "http://edify.cr",
     "email": "javier.perez@edify.cr",
     "github": "javier-perez"
+  },
+  "esramru": {
+    "name": "Esteban Ramirez R",
+    "bio": "Back End Software Developer at Edify",
+    "website": "http://edify.cr",
+    "email": "esteban.ramirez@edify.cr",
+    "twitter": "esramru",
+    "github": "eramirezedify",
+    "linkedin": "esteban-ramirez-23354475"
   }
 }

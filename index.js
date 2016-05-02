@@ -2,7 +2,6 @@ const mentors = {
   gaboesquivel: require('gaboesquivel'),
   yeco: require('yeco'),
   brolag: require('brolag'),
-  stevenperez: require('stevenperez'),
   kevinblanco: require('kevinblanco'),
   jeanlescure: require('jeanlescure'),
   laurensortiz: require('laurensortiz'),
@@ -20,7 +19,8 @@ const mentors = {
   gelopfalcon: require('gelopfalcon'),
   jasancheg: require('jasancheg'),
   jmonterroso: require('jmonterroso'),
-  jperez: require('jperez')
+  jperez: require('jperez'),
+  esramru: require('esramru')
 }
 
 module.exports = mentors
