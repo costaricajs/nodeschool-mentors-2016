@@ -20,7 +20,8 @@ const mentors = {
   jasancheg: require('jasancheg'),
   jmonterroso: require('jmonterroso'),
   jperez: require('jperez'),
-  esramru: require('esramru')
+  esramru: require('esramru'),
+  agarcia: require('agarcia')
 }
 
 module.exports = mentors
