@@ -188,6 +188,23 @@
     "github": "eramirezedify",
     "linkedin": "esteban-ramirez-23354475"
   },
+  "msolano00": {
+    "name": "Marvin Solano",
+    "bio": "Web Developer",
+    "website": "http://marvinsolano.io",
+    "email": "msolano00@gmail.com.com",
+    "twitter": "msolano00",
+    "github": "msolano00",
+    "linkedin": "marvinsolano"
+  },
+  "agarcia": {
+    "name": "Andrés García",
+    "bio": "Fullstack Developer at Gorilla Logic",
+    "website": "http://gorillalogic.com",
+    "email": "andresd.garciag@gmail.com",
+    "github": "andrsgarc",
+    "linkedin": "andrés-david-garcía-guzmán-a9800363"
+  },
   "jonobral": {
     "name": "Jonathan Obregón",
     "bio": "Full Stack Web Developer at Gorilla Logic.",
