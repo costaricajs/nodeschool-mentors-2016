@@ -65,7 +65,7 @@
   "rubenabix": {
     "name": "Rubén Abarca Navarro",
     "bio": "Full Stack Web Developer.",
-    "website": "http://rubenabix.com",
+    "website": "https://www.rubenabix.com/",
     "email": "rubenabix@gmail.com",
     "twitter": "rubenabix",
     "github": "rubenabix",
@@ -196,5 +196,13 @@
     "twitter": "msolano00",
     "github": "msolano00",
     "linkedin": "marvinsolano"
+  },
+  "agarcia": {
+    "name": "Andrés García",
+    "bio": "Fullstack Developer at Gorilla Logic",
+    "website": "http://gorillalogic.com",
+    "email": "andresd.garciag@gmail.com",
+    "github": "andrsgarc",
+    "linkedin": "andrés-david-garcía-guzmán-a9800363"
   }
 }
