@@ -29,7 +29,8 @@
     "stevenperez": "^1.0.2",
     "yeco": "^1.0.0",
     "esramru": "^1.0.0",
-    "agarcia": "^1.0.1"
+    "agarcia": "^1.0.1",
+    "jonobral": "^1.0.1"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",

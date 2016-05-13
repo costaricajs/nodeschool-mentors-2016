@@ -204,5 +204,14 @@
     "email": "andresd.garciag@gmail.com",
     "github": "andrsgarc",
     "linkedin": "andrés-david-garcía-guzmán-a9800363"
+  },
+  "jonobral": {
+    "name": "Jonathan Obregón",
+    "bio": "Full Stack Web Developer at Gorilla Logic.",
+    "website": "http://www.gorillalogic.com/",
+    "email": "jonobral@gmail.com",
+    "twitter": "jonobral",
+    "github": "jonobral",
+    "linkedin": "jonobral"
   }
 }
