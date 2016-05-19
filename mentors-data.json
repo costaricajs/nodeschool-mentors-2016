@@ -65,7 +65,7 @@
   "rubenabix": {
     "name": "Rubén Abarca Navarro",
     "bio": "Full Stack Web Developer.",
-    "website": "https://www.rubenabix.com/",
+    "website": "http://rubenabix.com",
     "email": "rubenabix@gmail.com",
     "twitter": "rubenabix",
     "github": "rubenabix",
@@ -213,5 +213,15 @@
     "twitter": "jonobral",
     "github": "jonobral",
     "linkedin": "jonobral"
+  },
+  "stevenperez": {
+    "name": "Steven Pérez",
+    "bio": "Full Stack Web Developer. Member of @costaricajs. #JavaScript #NodeJS",
+    "website": "http://www.stevengpa.com/",
+    "email": "steven.gpa@gmail.com",
+    "twitter": "steven__pa",
+    "github": "stevenperez",
+    "linkedin": "stevengpa",
+    "youtube": "https://www.youtube.com/results?search_query=UC2H6N4NTWdOy3Hfc79_8e"
   }
 }
